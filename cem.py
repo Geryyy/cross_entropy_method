@@ -1,3 +1,3 @@
-from cross_entropy_method.cem import CEM
+from cross_entropy_method.cross_entropy_method.cem import CEM
 
 __all__ = ["CEM"]
